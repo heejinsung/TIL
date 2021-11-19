@@ -1,0 +1,8 @@
+구현해야할 기능
+- #toggle click 하면 목록들이 나와야함 ( .show 나타내기)
+  - menu height px길어지게 
+- 옵션 click하면
+  - 선택한 글자로 바껴야함
+  - 클릭했을때 드롭다운 메뉴 닫혀야함 (menu height 0)
+- next 버튼의 disabled 해제시킴  
+- test
